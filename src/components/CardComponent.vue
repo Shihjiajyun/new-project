@@ -14,10 +14,10 @@
 
 <script>
 export default {
-    data() {
-        return {
-            title: '123',
-        };
-    },
+  data() {
+    return {
+      title: '123',
+    };
+  },
 };
 </script>
